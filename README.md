@@ -1,4 +1,13 @@
-  Olá, eu sou Vitor Martins, Desenvolvedor Web Full Stack | React !
+  Olá, eu sou Vitor Martins 👋
+A minha carreira sempre foi construída por muito trabalho em equipe, e desde sempre consegui unir a equipe onde trabalhei com muita harmonia.
+
+Sempre fui muito proativo e disposto a ajudar naquilo que eu sei e a encontrar soluções em conjunto com a equipe para o que não sabemos.
+
+Sou dedicado e persistente, amo programar e ter desafios. Aprender coisas novas é comigo mesmo!
+
+Hoje estou focado na área de Desenvolvimento Full Stack
+
+📃 Possuo certificado e prática nas tecnologias: ✔React ✔MySQL ✔Java ✔ CSS ✔ Html ✔ Git | GitFlow  ✔ Spring Boot
 
 <br/>
 <br/>
