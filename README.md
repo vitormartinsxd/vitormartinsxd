@@ -9,7 +9,12 @@ Sou dedicado e persistente, amo programar e ter desafios. Aprender coisas novas 
 
 Hoje estou focado na área de Desenvolvimento Full Stack
 
-📃 Possuo certificado e prática nas tecnologias: ✔React ✔MySQL ✔Java ✔ CSS ✔ Html ✔ Git | GitFlow  ✔ Spring Boot
+📃 Possuo certificado e prática nas tecnologias: 
+✔React 
+✔MySQL 
+✔Java 
+✔Git | GitFlow
+✔Spring Boot
 
 <br/>
 <br/>
