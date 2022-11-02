@@ -1,5 +1,6 @@
   Olá, eu sou Vitor Martins 👋
   <br/>
+  <br/>
 A minha carreira sempre foi construída por muito trabalho em equipe, e desde sempre consegui unir a equipe onde trabalhei com muita harmonia.
 
 Sempre fui muito proativo e disposto a ajudar naquilo que eu sei e a encontrar soluções em conjunto com a equipe para o que não sabemos.
